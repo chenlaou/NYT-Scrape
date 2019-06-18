@@ -1,2 +1,1 @@
-# NYT-Scrape
-A news article scraping application
+NYT News Scraping App
